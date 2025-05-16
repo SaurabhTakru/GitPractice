@@ -1,2 +1,2 @@
-def check1():
-    print("This is fourth file in test")
+def check2():
+    print("This is fourth file in testogog")
