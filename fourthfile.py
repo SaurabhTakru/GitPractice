@@ -1,4 +1,2 @@
-def check3():
-    a=10
-    b=20
-    print(a+b)
+def check1():
+    print("This is fourth file in test")
